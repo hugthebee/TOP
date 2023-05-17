@@ -1,0 +1,30 @@
+body{
+    text-align:center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #F1D0A8;
+    font-size:30px;
+}
+
+img{
+    height:auto;
+    width:500px;
+}
+
+div{
+    text-align:left;
+}
+
+.pasta{
+    background-color: #AFDAFA;
+    color:black;
+}
+
+.brownie{
+    color:brown;
+    background-color: #A0F0A5;
+}
+
+.bell{
+    color: #55AEB9;
+    background-color: #E9C4F5;
+}
