@@ -28,3 +28,12 @@ div{
     color: #55AEB9;
     background-color: #E9C4F5;
 }
+
+.card{
+    width:600px;
+    background-color: #060000;
+    color:white;
+    text-align:center;
+    margin: 20px auto;
+    padding: 10px 10px 20px;
+}
